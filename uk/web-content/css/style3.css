@@ -1,0 +1,184 @@
+.web-design .incred-expe .content-incred h4 { font-size: 24px; font-weight: 700;color: #007edd; padding: 0px; margin: 0px 0 10px 0;}
+.incred-expe .content-incred h3 {font-size: 30px;font-weight: 300;}
+.incred-expe .content-incred h5 {font-size: 20px;font-weight: 700; color: #111111;}
+.web-design .bannermm { background-image: url(../images/banner-web-design.jpg); padding: 250px 0 20px;}
+.web-design .bannermm .leftcont-ban h1 {font-size: 35px;font-weight: 600;}
+.web-design .bannermm .leftcont-ban p {font-size: 20px;font-weight: 400;}
+.web-design .slick-dotted.slick-slider {padding-bottom: 50px; margin-bottom: 0px;}
+/*.web-design .det-packages .boxpackages {margin: 50px 0 0;}*/
+.types-box { background: #fff; box-shadow: 0 0 30px rgba(0,0,0,0.2); border-radius: 10px; min-height: 335px; margin: 30px 0 50px 0;transition: all 0.3s ease-out;}
+.types-box:hover {box-shadow: -webkit-box-shadow: 0px 2px 45px 5px rgba(103, 103, 103, 0.75);
+-moz-box-shadow: 0px 2px 45px 5px rgba(103, 103, 103, 0.75);
+box-shadow: 0px 2px 45px 5px rgba(103, 103, 103, 0.75);}
+.types-box img { display: block;}
+.types-box h5 { font-size: 22px; color: #007edd; font-weight: 600; text-align:center; padding: 30px 0 10px; margin: 0px;     font-family: 'Montserrat', sans-serif;}
+.types-box p { font-size: 14px; color: #111111; font-weight: 400; text-align:center; padding: 0px 12px; margin: 0px;}
+.web-design.portfolio .portfoliomaindivs .topbartabs { border: 0px; margin: 0px 0 0 0;}
+.about .bannermm { background-image: url(../images/banner-about.jpg); padding: 300px 0 20px;}
+.padtop150 { padding-top: 150px;}
+.padtop80 { padding-top: 80px;}
+.about-phylosophy-bg {background: url(../images/about-philosophy.jpg) no-repeat; background-size: 100% 100%; min-height: 590px;clear: both;}
+.about-phylosophy-bg h3 {margin: 55px 0 10px 0;}
+.about-phylosophy-bg .phylosophy-box {padding: 0px 15px;position:relative;margin: 50px 0 0 0; cursor: pointer;}
+.about-phylosophy-bg .phylosophy-box i {width: 172px;height: 172px;display:block;margin: 0px auto;background: url(../images/about-philosophy-icons.png) -2px -10px no-repeat;position:relative;z-index: 2;}
+.about-phylosophy-bg .phylosophy-box h4 { font-size: 18px; font-weight: 700; color: #111111; text-align:center; padding: 0px; margin: 20px 0 15px 0; letter-spacing: -0.5px;}
+.about-phylosophy-bg .phylosophy-box p {font-size: 14px;font-weight: 400;color: #242424;text-align:center;padding: 0;margin: 0;}
+.about-phylosophy-bg .phylosophy-box i span { position:absolute; right: -15px; top: 0px; font-size: 24px; color: #cccccc; font-weight: 600; font-style: normal;display: none;}
+.about-phylosophy-bg .phylosophy-box i span.num-bot { top: inherit; bottom: 0px;}
+.about-phylosophy-bg .phylosophy-box:hover i span {color: #007edd;}
+.about-phylosophy-bg .phylosophy-box:after {position:absolute;right: -90px;top: 70px;content: '';background: url(../images/about-step-sep.png) left top no-repeat;width: 173px;height: 37px;z-index: 1;}
+.about-phylosophy-bg .phylosophy-box.no-sep:after { display: none;}
+.about-phylosophy-bg .phylosophy-box.round:after { transform: rotate(180deg);}
+.about-phylosophy-bg .phylosophy-box i.two { background-position: -190px -10px;}
+.about-phylosophy-bg .phylosophy-box i.three { background-position: -374px -10px;}
+.about-phylosophy-bg .phylosophy-box i.four { background-position: 0px -192px;}
+.contact .bannermm { background-image: url(../images/contact-banner.jpg); padding: 300px 0 20px;}
+.contact-main { margin: 20px 0 50px 0;}
+.contact .sechead { margin-bottom: 50px;}
+.contact .fixedform { display: none;}
+.contact-form-main {margin: 0 35px; display: flex;}
+.contact-form-main .gray-bg {float: left;width: 70%;padding: 26px 25px;background-color: #f4f4f4;}
+.contact-form-main .gray-bg h4 { font-size: 18px; font-weight: 700; color:#111; padding: 0px; margin: 0px 0 20px 0;}
+.contact-form-main .gray-bg .field {width: calc(50% - 15px); float: left; margin: 0 15px 21.3px 0; position:relative; background: #fff;    border: 1px solid #e6e6e6;}
+.contact-form-main .gray-bg .field:nth-child(odd) { margin-right: 0px;}
+.contact-form-main .gray-bg .field i { position:absolute; left: 10px; top: 10px; background: url(../images/about-philosophy-icons.png) 0 0 no-repeat; width: 17px; height: 17px; display: block;}
+.contact-form-main .gray-bg .field i.select { background-position: -126px -374px; transform: translateY(2px); }
+.contact-form-main .gray-bg .field i.user { background-position: -3px -375px;top: 11px;}
+.contact-form-main .gray-bg .field i.phone { background-position: -25px -375px;}
+.contact-form-main .gray-bg .field i.email { background-position: -46px -378px; top: 14px;}
+.mm-field.email fieldset, .mm-field.name fieldset{ left: 41.5px }
+.mm-field.textarea fieldset{ left: 15px }
+.mm-field.phone fieldset{ left: 86px }
+.mm-field.email fieldset.active, .mm-field.name fieldset.active{ top: 0px; font-size: 9px; color: #000 }
+.mm-field.textarea fieldset.active{ top: 1px; font-size: 9px;color: #000 }
+.mm-field.phone fieldset.active{ top: 1px; font-size: 9px;color: #000 }
+
+.contact-form-main .gray-bg .field i.subject { background-position:  -68px -376px;}
+.contact-form-main .gray-bg .field.full { width: 100%; margin: 0px; float: none;     clear: both;}
+.contact-form-main .gray-bg .field input[type="text"], .contact-form-main .gray-bg .field textarea, .contact-form-main .gray-bg .field select  { width: 100%; background: transparent; height: 40px; padding: 0 20px 0 40px; font-size: 14px; font-weight: 400; color: #242424; position: relative; z-index: 2; border: none}
+.contact-form-main .gray-bg .field textarea { height:141px; resize: none;padding: 10px 15px; width: calc(100% - 15px);}
+.contact-form-main .gray-bg .submit { display: block; max-width: 200px; margin: 20px auto 0; position:relative;}
+.contact-form-main .gray-bg .submit input[type="submit"] {background: #007edd; width: 100%; height: 45px; border-radius: 20px; font-size: 18px; font-weight: 700; color: #fff; border: 0px; text-align: left; padding-left: 59px;  }
+.contact-form-main .gray-bg .submit:before { position:absolute;left:15%;top: 12px; content: ''; background: url(../images/about-philosophy-icons.png) no-repeat -94px -374px;width: 22px;height: 21px;}
+.contact-form-main .red-bg {float: left;width: 30%;padding: 20px 25px 20px 25px;background-color: #007edd;}
+.contact-form-main .red-bg h3 {font-size: 28px;font-weight: 700;color: #fff;padding: 0px;margin: 0px 0 10px;line-height: normal;}
+.contact-form-main .red-bg h4 { font-size: 18px; font-weight: 700; color: #fff; padding: 0 0 5px 0; margin: 0px 0 5px 0; line-height: normal; position:relative;}
+.contact-form-main .red-bg h4:before { width: 48px; height: 2px; background: #fff; content: ''; position:absolute; left: 0px; bottom: 0;}
+.contact-form-main .red-bg p { font-size: 16px; font-weight: 600; color: #fff; padding: 0 0 0px 0; margin: 0px 0 10px 0;position:relative;}
+.contact-form-main .red-bg .social-icons i {font-size: 18px;color: #fff;margin: 0 4px;border: 2px solid #fff;border-radius: 100%;padding: 9px 11px 10px 11px;width: 40px; height: 40px; display: inline-flex;align-items: center;justify-content: center; transition-duration: 0.5s;}
+.contact-form-main .red-bg .social-icons i:hover { color: #3b7dff;border-color: #3b7dff; }
+.contact-form-main .red-bg .social-icons a+a i:hover { color: #282828;border-color: #282828; }
+.contact-form-main .red-bg .social-icons a+a+a i:hover{ color: #0056ff; border-color: #0056ff; }
+.contact-form-main .red-bg .social-icons a+a+a+a i:hover{ color: #0274b3; border-color: #0274b3; }
+.contact-form-main .red-bg .social-icons a+a+a+a+a i:hover{ color: #55adec; border-color: #55adec; }
+.custom-popup{ position: fixed; overflow: hidden; top: -100%;left: 0; width: 100%; height: 100%; background: #ff0d4c url('../images/popup-bg.jpg') center center no-repeat ; background-size: cover; z-index: 999999; display: flex; text-align: center;font-family: 'Open Sans', sans-serif; align-items: center; justify-content: center;
+    transition: all 0.4s ease}
+    .custom-popup.acttive{ top: 0 }
+.custom-popup h3{font-size: 36px; color: #fff; font-family: 'Montserrat', sans-serif; font-weight: 700; padding: 0; margin: 0}
+.custom-popup p{ color: #fff;font-size: 20px;  }
+.custom-popup a.closed{position: relative;display: block}
+.custom-popup a.closed::before{ content: "\f00d"; position: absolute; top: -40px; right: 14px; font-family: fontAwesome; font-size: 20px; color: #fff; border: 2px solid #fff; border-radius: 50px; padding: 0 6.5px }
+.custom-popup > div{  padding: 80px 20px}
+/* .custom-popup .jform{ margin: 20px 0; width: 100%; }
+.custom-popup .jform .mm-field input,.custom-popup .jform .mm-field select , .custom-popup .jform textarea{width: 100%; background: transparent; border: 1px solid #fff; padding: 14px 14px 14px 45px; border-radius: 8px; margin: 0 0 20px; font-size: 15px; color: #fff; }
+.custom-popup .jform .mm-field option { color: #000  }
+.custom-popup .jform .intl-tel-input{width: 100%}
+.custom-popup .intl-tel-input .selected-flag .iti-arrow{display: none}
+.custom-popup .jform ::placeholder{color: #fff}
+.custom-popup .jform .mm-field.pnfields input{ padding-left: 56px }
+.custom-popup .jform textarea{ padding-top: 17px;padding-bottom: 15px; padding-left: 14px  }
+.custom-popup .intl-tel-input.separate-dial-code .selected-dial-code{color: #fff}
+.custom-popup .input-btn{ width: 303px; margin: 10px auto 0;position: relative;}
+.custom-popup .input-btn::after{content: ""; color: #ff0243; position: absolute; top: 17px; right: 20px; background: url('/web-content/images/sprites.png') center no-repeat; background-position: -3px -19px; width: 39px; height: 10px; }
+.custom-popup .input-btn > input{ font-size: 18px; color: #242424; font-family: 'Montserrat', sans-serif; background: #ffffff; font-weight: 600; padding: 10px 30px 7px 0px; border-radius:25px; outline: none; border: none; width: 100% } */
+.fixedform-1 form{ width: 100%; margin: 30px 0  }
+.fixedform-1 .mm-field {margin-bottom: 20px;width: 100%;position: relative; }
+.fixedform-1 .mm-field input{ width: 100%; }
+.fixedform-1 .mm-field input[type=text], .fixedform-1 .mm-field select, .fixedform-1 .mm-field input, .fixedform-1 .mm-field textarea, [type=email] { background-color: transparent !important; z-index: 10; position: relative; border: 1px solid #fff; padding: 14px 10px 14px 50px; width: 100%;border-radius: 8px; color: #fff }
+.fixedform-1 .mm-field{position: relative;border-radius: 2px;}
+.fixedform-1 option{ color: #000 }
+.fixedform-1 .intl-tel-input.separate-dial-code .selected-dial-code{color: #fff}
+.fixedform-1 .intl-tel-input .selected-flag .iti-arrow{border-top-color: #fff}
+.fixedform-1 .intl-tel-input.separate-dial-code .selected-dial-code{padding-left: 0}
+.fixedform-1 .mm-field.pnfields:before{ display: none; }
+.fixedform-1 .mm-field.emailfield:before{ background-position:  -623px -167px;  width: 52px; height: 44px; }
+.fixedform-1 .mm-field.pnfields .intl-tel-input{ width: 100%; }
+.fixedform-1 .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input, .fixedform-1 .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=text], .fixedform-1.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=tel]{padding-left: 90px;}
+.fixedform-1 fieldset {  position: absolute;  top: 14px; left: 50px; z-index: 2; color: #fff; font-size: 15px;     transform: translate3d(0, 0, 0); transition: all 0.2s ease-in-out;}
+.fixedform-1 .intl-tel-input.allow-dropdown .flag-container, .intl-tel-input.separate-dial-code .flag-container{ z-index: 999; }
+.fixedform-1 .intl-tel-input.allow-dropdown .flag-container .selected-flag{ border-right: none; }
+.fixedform-1 .mm-field.selectsertvice:before{ background-position:-684px -166px; width: 52px; height: 44px;}
+.fixedform-1 .mm-field.whbgnone{ margin-bottom: 0; }
+.fixedform-1 .mm-field.whbgnone:before{background-position: -725px -97px;width: 21px;height: 21px;position: absolute;right: 30px;top: 0;bottom: 0;margin: auto;left: initial;}
+.fixedform-1 .mm-field.whbgnone input[type="submit"]{background: #007edd;border-radius: 30px;width: 100%;padding: 14px 35px;color: #fff; text-align: left;font-family: 'Montserrat', sans-serif;font-size: 21px;font-weight: 600;text-transform: uppercase;border:transparent;}
+.fixedform-1 .mm-field fieldset.active { top: 0px; font-size: 10px; color: #fff; padding: 1px 8px; z-index: 20; left: 47px; font-weight: 500; }
+.fixedform-1 .mm-field.pnfields fieldset{  left: 90px; }
+.fixedform-1 .mm-field.pnfields fieldset.active{ left: 82px;  }
+.fixedform-1.active{ right: 0; }
+.fixedform-1.active .barforms{ background-position: -815px -8px; }
+.fixedform-1 .mm-field textarea{padding-left: 14px}
+.fixedform-1 .textarea fieldset{left: 16px}
+.fixedform-1 .textarea fieldset{left: 16px}
+.fixedform-1 .mm-field.textarea fieldset.active{left: 16px;}
+.fixedform-1 .input-btn{ width: 303px; margin: 10px auto 0;position: relative;}
+.fixedform-1 .input-btn::after{content: ""; color: #ff0243; position: absolute; top: 20px; right: 20px; background: url('../images/sprites.png') center no-repeat; background-position: -3px -19px; width: 39px; height: 10px; }
+.fixedform-1 .input-btn > input{ font-size: 18px; color: #242424; font-family: 'Montserrat', sans-serif; background: #ffffff; font-weight: 600; padding: 12px 30px 12px 0px; border-radius:25px; outline: none; border: none; width: 100% } 
+.fixedform-1 .jform .mm-field{position: relative;}
+.fixedform-1 .jform .mm-field.namefield::before{ content: ''; position: absolute; top: 0; left: 0; background: url('../images/sprites.png')center center no-repeat; background-position: -712px 2px; width: 50px; height: 50px; }
+.fixedform-1 .jform .mm-field.emailfield::before{ content: ''; position: absolute; top: 0; left: 0; background: url('../images/sprites.png')center center no-repeat; background-position: -713px -37px; width: 50px; height: 50px; }
+.fixedform-1 .jform .mm-field.selectsertvice::before{ content: ''; position: absolute; top: 0; left: 0; background: url('../images/sprites.png')center center no-repeat; background-position: -756px 2px; width: 50px; height: 50px; }
+
+
+.contact-form-main .intl-tel-input{width: 100%; padding-left: 16px}
+.contact-form-main .mm-field.phone fieldset{left: 110px;}
+.contact-form-main .intl-tel-input.allow-dropdown .flag-container .selected-flag { background: #fff }
+
+/* .fixed-forms-main{ opacity: 1; } */
+.web-design .det-packages .packagesall a {width: 285px;}
+.web-design.process .det-packages .packagesall a {width: 260px;}
+.web-design .det-packages .packagesall a:hover {width: 350px;}
+
+.thanku { padding: 150px 0 100px;}
+.thank-you-img { text-align:center;}
+.thank-you-img p { text-align: center; font-size: 20px; font-weight: 300; padding: 0 0 50px 0; margin: 0px; color: #666}
+
+.thanks-box { text-align: center;}
+.thanks-box i {}
+.thanks-box i:before {content: "\f0e0";color: #007edd; font-size: 50px; font-family: 'FontAwesome'; font-style: normal;}
+
+.thanks-box h6 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #007edd;
+    padding: 0;
+    margin: 20px 0;
+}
+.thanks-box i.phone:before { content: "\f095";}
+.thanks-box i.chat:before {content: "\f086";}
+
+.thanks-box p {
+    padding: 0;
+    margin: 5px 0;
+    font-size: 14px;
+}
+.thanks-box a {
+    font-weight: 600;
+    color: #333;
+}
+
+
+
+
+
+
+
+
+label.error { display: none !important}
+input.error {border-color: #ecdc56 !important;}
+.gray-bg input.error {border-color: #007edd !important;}
+#side-form input.error {border-color: #007edd !important;}
+
+
+
+
+

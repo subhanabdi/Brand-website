@@ -1,0 +1,1017 @@
+/* Responsive */
+@media (max-width: 1199px) {
+    .slick-prev, .slick-next{ display: none !important}
+    .topnavs a{     font-size: 15px;padding-right: 12px;}
+    .topnavs a+a{    padding-left: 13px;}
+    header .main-nav ul > li > a{    font-size: 13px;padding: 18px 4px 22px;}
+    .topnavs .btn-radius-top a{    padding: 6px 14px;font-size: 13px;}
+    header .main-nav ul > li:first-child a { display: none }
+    .logo img{    width: 370px; max-width: initial}
+    header{    padding: 13px 0px 0;}
+    .inner-pg .bannermm h1 strong, .inner-pages .bannermm h1 strong {     font-size: 43px;}
+    .web-design .bannermm .leftcont-ban h1 , .inner-pg .bannermm h1, .inner-pg .bannermm h1 span, .inner-pages .bannermm h1, .inner-pages .bannermm h1 span {    font-size: 30px;}
+    .web-design .bannermm .leftcont-ban p{font-size: 16px}
+    .leftcont-ban a{    margin-top: 25px;}
+    bannermm {min-width: 540px}
+    .testimonials, .incred-expe{    padding: 50px 0 30px;}
+    .web-design .incred-expe .content-incred h4 { font-size: 21px; margin-bottom: 8px }
+    .incred-expe .content-incred h3 { font-size: 27px;    margin-bottom:  22px;}
+    .det-packages .sechead h3 { font-size: 30px }
+    .sechead p {font-size: 16px}
+    .maincta .btn-radius-top a {     padding: 6px 11px;    font-size: 15px;}
+    .maincta .callsdivs { font-size: 18px }
+    .sitemap-main .bannermm .leftcont-ban h1 strong , .trms-condtons .bannermm .leftcont-ban h1 strong ,.prvcy-securty .bannermm .leftcont-ban h1 strong, .bannermm .leftcont-ban h1 strong{font-size: 44px}
+    .sitemap-main .bannermm {     min-height: 330px;}
+    .sitemap-main .termcndtn { padding: 20px 0;}
+    .charAnimation .bannermm h1 strong{font-size: 44px !important}
+    .inner-pg .bannermm .leftcont-ban h1, .bannermm .leftcont-ban h1, .bannermm .leftcont-ban h1 span{font-size: 30px}
+    body.mainhome .bannermm .leftcont-ban p{font-size: 20px}
+    body.inner-pg .bannermm .leftcont-ban p{font-size: 20px}
+    .leftcont-ban a{margin: 5px 0 60px}
+    .scrolldown-fl{margin: 0 0 20px}
+    footer .social-icons.padd-btd{    padding: 12px 20px;}
+    footer .brdr-top .social-icons i {    margin: 0 1px;
+    width: 43px;
+    height: 43px;
+    font-size: 20px;}
+    .what-offer ul li div{    padding: 17px 3px 10px 60px;}
+    .what-offer ul li div:before{    transform: scale(0.9);}
+    .what-offer ul li i.icon4, .what-offer ul li i.icon3, .what-offer ul li i.icon2, .what-offer ul li div + i {margin-left: 48px}
+    .det-packages .boxpackages{    padding: 17px 13px 20px; margin: 30px 0; }
+    .packdetails .botarea-pack a.btn-orders {     padding: 3px 8px;font-size: 14px;}
+    .packdetails .botarea-pack .liovechats-bx a h5{ font-size: 14px; }
+    .packdetails .botarea-pack .liovechats-bx a span { font-size: 9px }
+    .packdetails .botarea-pack .liovechats-bx { padding-left: 10px }
+    .boxpackages .packdetails .packtitles .fleft h3 { font-size: 45px }
+    .packdetails .packtitles .fright h4 { font-size: 16px }
+    .packdetails .listpacks li {     font-size: 13px;     padding: 5px 16px;}
+    .packdetails .listpacks li:before{font-size: 13px}
+    .boxpackages .packdetails .listpacks h3 { font-size: 18px }
+    .mCSB_outside + .mCSB_scrollTools {right: -19px;}
+    .testimonials .testi .testi-img h4 { font-size: 17px }
+    .testimonials .testi .testi-img img {margin-right: 20px; margin-bottom: 20px;}
+    .testimonials .testi .testi-desc i, .testimonials .testi .testi-desc ul li { font-size: 12px }
+    .enterprices-bundles {     padding: 10px 0 20px;}
+    .sechead h3 {    font-size: 30px;}
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx > li {     padding: 5px 18px;font-size: 12px; }
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx > li:before{font-size: 12px}
+    .pacbundles-det .headbx-bundle .packbundleprice span {    font-size: 22px;}
+    .pacbundles-det .headbx-bundle .packbundleprice { padding-left: 10px;    margin: -10px 0 0 0;
+    }
+    .pacbundles-det .headbx-bundle li.haschildren .child-tooltip {right: 17px}
+    .pacbundles-det .headbx-bundle .fleft h4{margin: 0 !important; font-size: 18px}
+    .enterprices-bundles .totalpackagespricess h4 { font-size: 28px }
+    .enterprices-bundles .totalpackagespricess .btn-orders-bundles a {     padding: 7px 23px; font-size: 18px; }
+    footer{    padding: 20px 0 0 0;} 
+    body.mainhome .bannermm .leftcont-ban p:before{width: 100% !important}
+    .dropdown .listimgs{display: none}
+    header .main-nav ul li .dropdown { width: 550px; overflow: hidden; }
+    .portfoliomaindivs .topbartabs{    padding: 0px 15px;}
+    .hovereffects-det h3{    font-size: 20px;}
+    .btnstyles-nn a{padding: 3px 20px; font-size: 16px;}
+    .what-offer > div > ul > li div{     padding: 12px 15px 10px 73px;}
+    .maincta h3 strong {
+        font-size: 38px;}
+    .maincta p{    font-size: 16px;}
+    .maincta .callsdivs { padding: 25px 0 0px 0; }
+    .mainhome .bannermm{ height: auto }
+    .bannermm{    min-height: 600px;}
+    .slick-dots{text-align: center !important}
+    .what-offer ul li i.icon5, .what-offer ul li i.icon6, .what-offer ul li i.icon7, .what-offer ul li i.icon8{    margin-left: 50px;}
+    .maincta .callsdivs a+a{    display: block; border: none}
+    .types-box{ overflow: hidden; }
+    img { max-width: 100%; height: auto;}
+    .types-box h5{ padding-top: 20px }
+    .types-box {    min-height: 317px;}
+    .testimonials, .incred-expe, .what-offer { padding: 30px 0;}
+    .how-works, .homeport-mm { padding: 20px 0;}
+    .pricerange-main .pricingbox .iconsbx{ transform: scale(0.8);}
+    .pricerange-main .pricingbox li h3{     margin-top: -6px;}
+    .animation-service .srvc-box .srvc-lft img, .animation-service .srvc-box .srvc-lft video{    margin-bottom: 25px;}
+    .c-tabs .col-md-3 h3{ font-size: 29px;line-height: 34px; }
+    .branding .branding-portfolio .tab-content .bg1-description{    padding: 10px 0;}
+    .incred-expe .padtop150 { padding-top: 50px; }
+    .gettouchfaqs {padding: 20px 0;}
+    .gettouchfaqs h3 { font-size: 32px; margin: 0;}
+    .gettouchfaqs .packagesbxs .toptabs1 a {     padding: 6px 25px; font-size: 17px;}
+    .contact-form-main .red-bg .social-icons i{ width: 36px; height: 36px;    font-size: 17px;    margin: 0;}
+    .contact-form-main .gray-bg{     padding: 23.5px 22px;}
+    .incred-expe .content-incred p{    font-size: 16px;}
+    .sitemap-main .sp-section ul li a{ font-size: 15px}
+    .sitemap-main.stp .termcndtn ul li:before{     top: 17px; }
+    .sitemap-main .termcndtn ul li:before{ top: 8px }
+}
+/* @media (min-width:1170px) and (max-width: 1281px) {} */
+/* @media (min-width:1000px) and (max-width: 1169px) {} */
+@media (max-width: 991px) {
+    .gettouchfaqs .packagesbxs .toptabs1 a { padding: 4px 17px; font-size: 15px; }
+    .custom-popup > div { padding: 80px 20px 20px; }
+    .cbp-spmenu{ 
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9a092f+10,9a092f+24,ff0042+100 */
+    background: rgb(154,9,47); /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(154,9,47,1) 10%, rgba(154,9,47,1) 24%, rgba(255,0,66,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(154,9,47,1) 10%,rgba(154,9,47,1) 24%,rgba(255,0,66,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgb(0 47 100) 10%,rgb(7 74 141) 24%,rgb(3 149 227) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9a092f', endColorstr='#ff0042',GradientType=0 ); /* IE6-9 */}
+    a.toggle-menu.menu-left.push-body.jPushMenuBtn {
+    /* margin-left: 11px; */
+    /* display: inline-block; */
+    position: relative;
+    z-index: 99999;}
+    a.toggle-menu:before{
+    content: '\f0c9';
+    font-family: fontAwesome;
+    color: #fff;
+    position: absolute;
+    left: 45px;
+    top: 6px;
+    display: block;
+    height: 13px;
+    width: 22px;
+    -webkit-transform-origin: .28571rem center;
+    transform-origin: .28571rem center;
+    font-size: 30px}
+    header .logo{ margin-left: 60px }
+    .leftcont-ban{max-width: 380px}
+    .creataccounts, .lg-hidden{display: none !important}
+    .cbp-spmenu li.parenturl.home a{position: relative;}
+    .cbp-spmenu li.parenturl.home a > img{ display: none }
+    .cbp-spmenu li.parenturl.home:nth-child(1) a::before{ content: "HOME" }
+    .dropdown .lstnavig .liststylss > li{ border: none }
+    .dropdown .lstnavig .liststylss li .innerdropdowns, .dropdown .lstnavig >.liststylss > li > a i { display: none }
+    .dropdown .lstnavig .liststylss > li > a { padding: 7px 0 7px 35px; color: #fff;border: none }
+    .dropdown .lstnavig .liststylss > li:hover > a, .dropdown .lstnavig .liststylss li.active > a{font-weight: 700; color: #fff}
+    .dropdown .lstnavig .liststylss > li > a:after{color: #fff}
+    .cbp-spmenu-vertical a{ border-bottom: none; border-top: 1px solid rgba(255, 255, 255, 0.8) }
+    .dropdown .lstnavig, .dropdown .listdiscret, .dropdown .listimgs { float: none; }
+    .dropdown .lstnavig .liststylss { margin-bottom: 10px; margin-top: -10px }
+    .stickyheader{position: static;}
+    footer{    padding: 10px 0 0 0;}
+    footer h3 { font-size: 14px }
+    footer ul li {    padding: 4px 0 4px 10px;}
+    footer ul li a {font-size: 11px }
+    footer ul li::before { top: 7px }
+    footer .listpge{    padding-bottom: 0px;}
+    footer .padd-btd { padding: 0px 0 13px; }
+    footer .social-icons.padd-btd{border: none}
+    footer .brdr-top {    padding: 20px 0px 10px 0;}
+    .ulsme-ctct ul li::before{     font-size: 11px;}
+    .sitemap-main .bannermm .leftcont-ban h1 strong , .trms-condtons .bannermm .leftcont-ban h1 strong ,.prvcy-securty .bannermm .leftcont-ban h1 strong, .bannermm .leftcont-ban h1 strong { font-size: 35px; }
+    .sitemap-main .bannermm {min-height: 200px; }
+    .sitemap-main .bannermm .leftcont-ban { margin-top: 62px; }
+    .sitemap-main .termcndtn { padding: 10px 0; }
+    .sitemap-main .termcndtn ul li:before {top: 7px}
+    .sec-pad.termcndtn p br{display: none  }
+    .sitemap-main .termcndtn p strong { font-size: 20px; margin-bottom: 5px}
+    .bannermm .leftcont-ban h1, .bannermm .leftcont-ban h1 span{    font-size: 22px;    }
+    .charAnimation .bannermm h1 strong{ font-size: 35px !important;}
+    .bannermm .leftcont-ban h1{ padding-bottom: 10px; margin-bottom: 5px }
+    .bannermm{min-height: 440px}
+    body.mainhome .bannermm .leftcont-ban p{font-size: 16px}
+    .leftcont-ban a {font-size: 14px; height: 35px; width: 270px }
+    .bannermm a.logobtnsstart{width: 270px}
+    .bannermm a.logobtnsstart:hover{width: 340px}
+    .testimonials, .incred-expe{     padding: 20px 0 10px;}
+    .mainhome .incred-expe .slick-dots , .testimonials .slick-dots, .incred-expe .slick-dots, .det-packages .slick-dots { bottom: -20px;  }
+    .slick-dots{text-align: center !important}
+    header {padding: 0}
+    .logo img { width: 300px;     margin-left: -98px;}
+    header .logo { padding-top: 23px; }
+    .incred-expe .content-incred h5 { font-size: 18px }
+    .incred-expe .content-incred h3 { font-size: 24px !important; margin-bottom: 10px }
+    p{font-size: 14px}
+    .incred-expe .content-incred p.f20{ font-size: 18px; margin-bottom: 5px }
+    .what-offer ul li div:before, .scrolldown-fl, .md-hidden{display: none !important}
+    .incred-expe .content-incred .fnt-18{ margin-bottom: 10px; font-size: 16px; font-weight: 600}
+    .what-offer{padding: 0px 0 10px}
+    .what-offer h3 {font-size: 28px;}
+    .what-offer p {font-size: 14px;  }
+    .logodesign-p .what-offer > div > ul > li div, .what-offer ul li div { padding: 10px 10px 10px;background: #fff; min-height: 170px;position: relative;border-radius: 8px; box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.1); }
+    .what-offer ul li div a{position: absolute; bottom: 10px; left: 0; right: 0; margin: auto; color: #ea333f; font-weight: 600 }
+    .what-offer ul li div h3{ margin: 0 0 5px }
+    .what-offer ul li i.icon5, .what-offer ul li i.icon6, .what-offer ul li i.icon7, .what-offer ul li i.icon8, .what-offer ul li i.icon4, .what-offer ul li i.icon3, .what-offer ul li i.icon2, .what-offer ul li div + i{display: none}
+    .what-offer ul { margin: 10px -5px 0 }
+    .what-offer ul li {     padding: 0 5px;}
+    .what-offer > div > ul > li div h3, .what-offer ul li div h3{ font-size: 18px }
+    .what-offer > div > ul > li div p, .what-offer ul li div p{font-size: 12px; margin: 0}
+    .maincta h3 strong{    font-size: 28px;}
+    .what-offer > div > ul{    margin: 10px 0 0;}
+    .maincta h3 {     font-size: 26px; line-height: normal; margin-bottom: 0}
+    .maincta .btn-radius-top{margin-top: 10px}
+    .maincta p{font-size: 14px}
+    .maincta .btn-radius-top a{ margin: 0 3px;     padding: 4px 7px; font-size: 11px; }
+    .maincta .callsdivs {font-size: 15px;     text-align: center; padding-top: 16px}
+    .maincta .callsdivs a+a{border: none}
+    .maincta .callsdivs .iconphone{     transform: scale(0.8);}
+    .maincta {     padding: 13px 0;}
+    .homeport-mm {padding: 0}
+    .sechead h3 { font-size: 28px; margin-bottom: 5px }
+    .sechead p{font-size: 16px}
+    .toptabs1 li span, .toptabs1 li a {     padding: 7px 0px; font-size: 14px;}
+    .toptabs1 li {margin: 0 3px;    width: 130px;}
+    .hovereffects-det h3 { font-size: 16px; margin: 5px 0 }
+    .btnstyles-nn a{padding: 3px 18px;font-size: 14px;}
+    .portfolio-mmbx .leftcont-ban a{ width: 168px;     height: 33px;margin: 0px auto 10px;     font-size: 13px;}
+    .portfolio-mmbx .box-ports { margin: 0 -5px 15px }
+    .det-packages{     padding: 0px 0 10px;}
+    .portfoliomaindivs .topbartabs{    padding: 0 30px;}
+    .det-packages .sechead h3 {font-size: 22px}
+    .toptabs1{ margin: 10px 0  }
+    .det-packages .boxpackages { margin: 20px auto 10px; max-width: 280px;  }
+    .packagesall .portfolio-mmbx .leftcont-ban a{     width: 163px;}
+    .packagesall .portfolio-mmbx .leftcont-ban a:hover { width: 215px; margin-bottom: 0 }
+    .enterprices-bundles{padding: 0 0 10px}
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx > li > br{display: none}
+    .packdetails .listpacks li:after, .pacbundles-det .headbx-bundle ul.listbundles-packbx li:after{left: 20px}
+    .enterprices-bundles .totalpackagespricess h4{    font-size: 22px;}
+    .enterprices-bundles .totalpackagespricess .yellcol {font-size: 28px}
+    .enterprices-bundles .totalpackagespricess .btn-orders-bundles a { padding: 5px 20px; font-size: 16px; }
+    .testimonials h3 { font-size: 28px }
+    .testimonials .row.testi-main{ padding-top: 0 }
+    .testimonials .testi .testi-img img { margin-right: 10px; margin-bottom: 10px; }
+    .testimonials .testi .testi-img h4{font-size: 16px; margin-bottom: 5px}
+    .testimonials .testi .testi-img p{ font-size: 12px }
+    .testimonials .testi .testi-img::before{     transform: scale(0.8) translateX(5px);}
+    .mainhome .bannermm{height: auto;}
+    body.mainhome .bannermm .leftcont-ban p:before{top: 0}
+    .mainhome .bannermm .leftcont-ban a, .mainhome .bannermm.animbanner .leftcont-ban a , .mainhome .bannermm.webbanner .leftcont-ban a{width: 285px}
+    .mainhome .bannermm .leftcont-ban a:hover, .mainhome .bannermm.animbanner .leftcont-ban a:hover , .mainhome .bannermm.webbanner .leftcont-ban a:hover{width: 335px}
+    .portfolio-mmbx .leftcont-ban a:hover{width: 210px}
+    footer .brdr-top .subcribe input{    padding: 13px 35px;font-size: 12px}
+    footer .brdr-top .subcribe i{    top: 59px;left: 28px;}
+    footer .brdr-top .subcribe button {padding: 8px 27px;}
+    .inner-pg .bannermm .leftcont-ban h1 { font-size: 28px; }
+    .leftcont-ban a i{opacity: 0}
+    .leftcont-ban a:hover i{ opacity: 1 }
+    .portfoliomaindivs .tabschildrens ul li {     padding: 5px 8px;}
+    .portfoliomaindivs .tabschildrens ul li span { font-size: 13px }
+    .portfolio-mmbx .box-ports{ max-width: 220px;    margin: 0 auto 35px;}
+    .portfolio-mmbx .fixportfoliobtns.leftcont-ban a{    width: 206px;}
+    .slick-prev, .slick-next{display: none !important}
+    .inner-pg .portfoliomaindivs .innertabcontents .row .col-md-3:nth-child(n+9), .mainhome .portfoliomaindivs .innertabcontents .row .col-md-3:nth-child(n+9), .mainhome .portfoliomaindivs .innertabcontents .row .col-md-4:nth-child(n+7), .det-packages .packagesbxs .col-md-3:nth-child(n+5){display: block !important}
+    footer .social-icons.padd-btd{ padding: 10px 0 }
+    .logopackages-p .det-packages .tabscontent .col-md-4:nth-child(n+4) .boxpackages, .det-packages .boxpackages {    margin: 20px auto 20px;    padding: 10px 10px;     max-width: 100%;clear: both; overflow: hidden; float: none}
+    .det-packages .boxpackages .packheads h3{font-size: 22px}
+    .responsive-slider{clear: both; }
+    .pacbundles-det .headbx-bundle .packbundleprice {     margin: -10px 0 0;}
+    .pacbundles-det .headbx-bundle .fleft h4{     padding-top: 10px;}
+    .enterprices-bundles .sechead { margin-bottom: 20px; }
+    .cbp-spmenu-vertical { z-index: 99999 }
+    .det-packages .boxpackages:hover{    transform: scale(1.04);
+    }
+    .packagesall .portfolio-mmbx .leftcont-ban { margin: 0 auto}
+    .packagesall .portfolio-mmbx .leftcont-ban a{     padding: 7px 20px;}
+    .portfolio-mmbx .leftcont-ban a{     padding: 6px 20px;}
+    .tabs-portfolio .slick-dotted.slick-slider { margin-bottom: 10px;}
+     .slick-dots{     bottom: -20px;}
+      .portfoliomaindivs.tabsmainport .slick-dots{     bottom: 0px;}
+    .home-p .det-packages .tabscontent .col-md-4:nth-child(n+4) .boxpackages{display: block}
+    .custom-popup h3 { font-size: 28px;}    
+    .custom-popup p {     font-size: 18px;}
+    .inner-pg .bannermm .leftcont-ban, .inner-pages .bannermm .leftcont-ban { margin-top: 60px; }
+    .howworks-mm .designbrief:before, .howworks-mm .col-md-3+.col-md-3 .designbrief:after, .howworks-mm .col-md-3+.col-md-3+.col-md-3+.col-md-3 .designbrief:before, .howworks-mm .col-md-3+.col-md-3+.col-md-3 .designbrief:before{display: none}
+    .what-offer ul li div{    min-height: 206px;}
+    .howworks-mm .designbrief h3 { font-size: 18px;}
+    .howworks-mm .designbrief p { font-size: 14px;}
+    .how-works{padding: 0}
+    .testimonials .slick-dots{display: none !important}
+    #section08 .portfoliomaindivs.tabsmainport .slick-dots { bottom: 12px; }
+    body.logodesignport-p.inner-pg #section08 .portfoliomaindivs.tabsmainport .slick-dots { bottom: 0; }
+    body.logodesignport-p.inner-pg #section08 .portfolio-mmbx .box-ports { margin: 10px auto 24px; }
+    #section08 .portfolio-mmbx .box-ports{  margin: 0 auto 24px;}
+    body.portfolio #section08 .portfolio-mmbx .box-ports { margin: 0 auto 60px; }
+    .web-design .slick-dotted.slick-slider { padding-bottom: 20px;}
+    .testi-a a, .leftcont-ban a {font-size: 14px;height: auto;width: auto !important;display: inline-block;}
+    .leftcont-ban a i.btnarow{display: none}
+    .testi-a a:hover , .leftcont-ban a:hover{width: initial !important; display: inline-block;}
+    #alltest .testi-a a {display: inline-block; width: auto; }
+    #alltest .testi-a a:hover {display: inline-block;}
+    .testimonials .col-md-6:nth-child(2n):before{ display: none }
+    .testimonials-sec .sechead { margin-bottom: 20px; }
+    .testimo .testimonials-sec .row .col-md-6+.col-md-6{    margin-bottom: 0px;}
+    .web-design .incred-expe .content-incred h4 { font-size: 20px; line-height: 26px; }
+    .what-offer.types-main{ margin-top: 20px }
+    .types-box h5 {  padding: 14px 0 5px; font-size: 18px; }
+    .what-offer p { font-size: 14px;    padding: 0px 10px; }
+    /* .types-box { min-height: 245px;     margin: 10px 0;} */
+    .types-box { min-height: 261px; margin: 10px auto; max-width: 260px; }
+    .web-design .portfoliomaindivs .portfolio-mmbx .col-md-4:nth-child(n+7){display: block}
+    .web-design .responsive-slider .slick-dots{ bottom: 5px }
+    .animation-service .srvc-box .srvc-lft img, .animation-service .srvc-box .srvc-lft video{width: 80px; margin-bottom: 0px; margin-right: 12px;height: auto }
+    .animation-service .srvc-box .srvc-rht h4{     font-size: 18px; margin :0 }
+    .animation-service .srvc-box .srvc-rht p { font-size: 12px; }    
+    .animation-service .srvc-box {     padding: 10px 10px;    min-height: 150px; margin: 0 0 10px;position: relative; }
+    .animation-service .srvc-box .srvc-rht a{ position: absolute; bottom: 8px; left: 50%; margin: auto; transform: translateX(-50%); }
+    .animation .animation-service{     padding-bottom: 10px;}
+    .pricerange-main { padding: 0px 0 10px;}
+    .mainpriceng-count { margin-top: 20px;}
+    .mainvideo-dur{ clear: both;    padding: 5px 10px; }
+    .animation-pricing { padding: 10px 10px; margin-top: 13px; }
+    .pricerange-main .video-qty { padding: 5px 10px; margin-top: 8px}
+    .pricerange-main .video-duration { margin: 0 }
+    input[type=range]{ max-width: 320px; margin: 0 auto 5px; }
+    .pricerange-main .video-qty h6, .pricerange-main .video-qty label{    margin-bottom: 13px;}
+    .pricerange-main .video-qty #videoqty{     margin: 0 10px 0 0;     padding: 3px 5px;}
+    .pricerange-main .leftcont-ban{margin: 0 auto; text-align: center}
+    .mainpriceng-count .leftcont-ban a {margin-top: 28px  }
+    .video-development {     padding: 20px 0;}
+    .video-development .vd-devp-fr h2 { font-size: 28px; margin: 5px 0;}
+    .video-development .vd-bef:before, .video-development .vd-devp span{ display: none }
+    .video-development .vd-devp >div{     padding: 10px 10px; min-height: auto;     max-width: 276px; margin: 0 auto 10px; text-align: center}
+    .video-development img{margin: 0 auto}
+    .video-development .padd-tp { padding-top: 10px;}
+    .video-development {min-height: auto }
+    .branding .branding-portfolio .bg1-description{ flex-wrap: wrap-reverse }
+    .branding .branding-portfolio .c-tabs-description {padding: 0}
+
+    .c-tabs .col-md-3 h3 { font-size: 22px; line-height: normal; }
+    .c-tabs .col-md-3 p { font-size: 13px }
+    .c-tabs .tabs-list li a{    font-size: 14px;    padding: 8px 14px;}
+    .branding-portfolio{    padding: 20px 0;}
+    .branding .branding-portfolio .tab-content .bg1-description{     padding: 10px 0 0; }
+    .branding-portfolio .c-tabs-description h3 { font-size: 20px; margin: 10px 0 5px }
+    .branding .branding-portfolio .c-tabs-description p{    font-size: 13px;line-height: 21px; min-height: auto}
+    .branding .branding-portfolio .c-tabs-description a {     padding: 5px 30px; font-size: 16px; }
+    .branding .branding-portfolio .bg1-description img{ max-width: 225px; margin: -48px 0 0 auto; display: block }
+    .tabscontent{clear: both;}
+    .incred-expe .padtop150 { padding-top: 20px; }
+    .about-phylosophy-bg .phylosophy-box {padding: 0;     margin: 20px 0;}    
+    .about-phylosophy-bg .phylosophy-box i { left: -10px;}
+    .about-phylosophy-bg{ min-height: auto }
+    .accordion-faq a.accord-tab {     padding: 20px 10px;    font-size: 14px; min-height: auto }
+    .accordion-faq > li:after { font-size: 24px }
+    .sitemap-main .termcndtn ul li{font-size: 14px;     padding-left: 14px;}
+    /* .sitemap-main .sp-section h3 { font-size: 16px;} */
+    .sitemap-main .termcndtn ul li:before { top: 3px; margin: 5px 0}
+    .sitemap-main.stp .termcndtn ul li:before { top: 11px; margin: 5px 0}
+    .sitemap-main .termcndtn ul li:before{    width: 4px; height: 4px;}
+
+    .sitemap-main .col-sm-5ths{padding: 0;}
+    .sitemap-main .sp-section{min-height: auto}
+    body.sitemap-main .sec-pad.termcndtn.sp-section .row{display: flex; flex-direction: column; padding: 0 10px; flex-wrap: wrap; height: 560px; }
+    .contact-form-main .red-bg h3{     font-size: 22px;    margin: 0px 0 10px;}
+    .contact-form-main .red-bg{padding: 10px 15px;width: 100%;text-align: center;}
+    .contact-form-main .red-bg h4{     font-size: 18px; margin: 0px 0 8px 0;  border-bottom: 1px solid #fff;padding: 0; display: inline-block}
+    .contact-form-main .gray-bg h4{     font-size: 20px; margin: 0px 0 15px 0;    border-bottom: 1px solid #fff;padding: 0; display: block; text-align: center}
+    .contact-form-main .red-bg p{    margin: 0px 0 16px 0;font-size: 16px; }
+    .contact-form-main .red-bg h4:before{ display: none }
+    
+    .contact-form-main .red-bg .social-icons > div{ margin: 10px 0 0 }
+    .contact-form-main .gray-bg { padding: 15px 16px; width: 100%;}
+    .contact-form-main .gray-bg .field{ margin: 0 10px 15px 0;    width: calc(50% - 10px);}
+    /* .contact-form-main .gray-bg .field input[type="text"], .contact-form-main .gray-bg .field textarea, .contact-form-main .gray-bg .field select{     padding: 0 16.5px 0 30px; height: 33px; font-size: 13px; } */
+    .contact-form-main .mm-field.phone fieldset{ top: 6px; }
+    .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input, .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input[type=text], .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input[type=tel] { padding-left: 93px; }
+    .contact-form-main .gray-bg .field input[type="text"], .contact-form-main .gray-bg .field textarea, .contact-form-main .gray-bg .field select{padding: 8px 16.5px 8px 30px; height: auto; font-size: 13px;}
+    .fixedform-1 .input-btn > input{     padding: 7px 10px;    font-size: 16px;}
+    .fixedform-1 .input-btn::after{display: none}
+    .mm-field.email fieldset, .mm-field.name fieldset{     top: 8px; left: 37px; }
+    .contact-form-main .gray-bg .field i.email{ top: 12px }
+    .contact-form-main .gray-bg .field i.user{ top: 9px }
+    .contact-form-main .gray-bg .field i{ top: 8px }
+    .contact-form-main .red-bg{ min-height: auto;    padding: 10px 15px 20px;}
+    .contact-main {margin: 10px 0 20px 0; }
+    .contact .sechead { margin-bottom: 30px; }
+    .fixedform-1 .jform .mm-field.namefield::before{     transform: scale(0.8) translateX(-3px) ; height: 41px;    background-position: -712px -1px;}
+    .fixedform-1 .jform .mm-field.emailfield::before{     transform: scale(0.8) translateX(-3px); height: 41px;    background-position: -713px -41px;}
+    .fixedform-1 .jform .mm-field.selectsertvice::before{     transform: scale(0.8) translateX(-3px); height: 41px;        background-position: -756px -1px;}
+    .fixedform-1 .mm-field fieldset.active{     left: 37px;    font-size: 9px;}
+    .fixedform-1 fieldset{    top: 12px;
+        font-size: 14px;    left: 40px;
+
+    }
+    .fixedform-1 .mm-field input[type=text], .fixedform-1 .mm-field select, .fixedform-1 .mm-field input, .fixedform-1 .mm-field textarea, [type=email]{    padding: 10px 8px 10px 40px;
+    }
+    .fixedform-1 .mm-field{     margin-bottom: 10px;
+    }
+    .custom-popup{ overflow-y: scroll;display: block}
+    .howworks-mm .designbrief:hover .processicons{     transform: scale(1); }
+}
+    @media (max-width: 920px) { 
+        .logo img{ margin-left: 0}
+        header .logo{margin: 0 auto} 
+        a.toggle-menu:before {left: 20px;}
+    }
+
+    @media (max-width: 767px) {
+        .sitemap-main.stp .termcndtn ul li:before { top: 6px;}
+        .contact-form-main .red-bg .social-icons i { width: 30px; height: 30px; font-size: 14px;}
+        .sm-hidden{ display: none !important }
+     .content-incred{     text-align: center; }   
+     .leftcont-ban{     max-width: 310px; }   
+     .cookie-bar p a{ clear: both; float: initial !important; } 
+     .cookie-btn-3{  position: absolute; left: 10px; top: 0; }  
+     #allport .row{ display: block; }   
+     .cookie-btn-3{ margin-right: 20px; }
+     .no-found{ min-height: 400px; }   
+     .no-found .noFound-content h1{ font-size: 80px; }
+     .no-found .noFound-content h3{ font-size: 30px; }
+    .contact-form-main .gray-bg .field {width: 100%;}
+    .fixedform.fixed-forms-main{display: none}
+    .testimonials .testi .testi-img {
+        min-height: 125px;}    
+    .bannermm{ min-height: 340px }
+    .sitemap-main .bannermm .leftcont-ban h1 strong , .trms-condtons .bannermm .leftcont-ban h1 strong ,.prvcy-securty .bannermm .leftcont-ban h1 strong, .bannermm .leftcont-ban h1 strong{     font-size: 24px;}
+    .sitemap-main .bannermm .leftcont-ban { margin-top: 50px; }
+    .sitemap-main .termcndtn{padding: 0}
+    .sitemap-main .termcndtn ul li{font-size: 12px}
+    .sitemap-main .termcndtn ul li:before{width: 4px;height: 4px;}
+    .sitemap-main .bannermm { min-height: 150px; }
+    .charAnimation .bannermm h1 strong{font-size: 24px !important;}
+    .bannermm .leftcont-ban h1, .bannermm .leftcont-ban h1 span{font-size: 22px}
+    .bannermm .leftcont-ban h1{padding: 5px 0}
+    body .bannermm .leftcont-ban p{font-size: 13px;font-weight: 500 !important}
+    .what-offer > div > ul {margin: 10px 0 0;}
+    .what-offer .slick-dots {bottom: -27px;}
+    .maincta{text-align: center; padding: 10px 0 0}
+    .maincta .btn-radius-top{float: none}
+    .hovereffects-det h3 {font-size: 14px;}
+    .btnstyles-nn a {
+    padding: 2px 11px;
+    font-size: 12px;
+    margin: 2px 0}
+    .toptabs1 li span, .toptabs1 li a { padding: 5px 0px; font-size: 14px; margin-bottom: 8px}
+    .sitemap-main .termcndtn p strong, .sechead h3 {
+    font-size: 22px;
+    margin: 5px 0 ;
+    padding: 10px 0 0;}
+    .enterprices-bundles h3:before {
+    height: 2px}
+    .sechead p {
+    font-size: 14px;}
+    .pacbundles-det .headbx-bundle .fleft h4 {font-size: 15px }
+    .pacbundles-det .headbx-bundle .packbundleprice{    padding: 0 0 0 8px;
+    font-size: 14px;
+    padding-left: 10px;
+    margin-top: -10px}
+    .pacbundles-det .headbx-bundle .packbundleprice span { font-size: 18px }
+    .pacbundles-det .headbx-bundle .packbundleprice:before { top: 0; margin: auto; }
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx{    padding: 0px 0 15px;}
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx > li {
+    padding: 4px 16px;
+    font-size: 11px;}
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx > li:before{font-size: 11px}
+    .enterprices-bundles .totalpackagespricess h4{font-size: 16px;}
+    .enterprices-bundles .totalpackagespricess .yellcol{font-size: 20px}
+    .enterprices-bundles .totalpackagespricess h4 b:before{    width: 93%; left: -2px; top: 8px; }
+    .enterprices-bundles .totalpackagespricess .btn-orders-bundles a {
+    padding: 3px 16px;
+    font-size: 14px;
+    margin: 0}
+    .enterprices-bundles .totalpackagespricess .btn-orders-bundles p{    font-size: 12px;}
+    .testimonials h3 { font-size: 24px;margin-bottom: 5px }
+    p {
+    font-size: 14px;}
+    .testimonials .testi .testi-img img{    margin-right: 10px;
+    margin-bottom: 5px; max-width: 60%}
+    .testimonials .testi .testi-img h4 {
+    font-size: 18px;
+    margin-bottom: 5px;}
+    .testimonials .testi .testi-img p {
+    font-size: 15px;}
+    .testimonials .testi .testi-img::before {
+    transform: scale(0.7) translateX(6px);}
+    .testimonials .testi .testi-desc i, .testimonials .testi .testi-desc ul li {
+    font-size: 10px;}
+    .testimonials .testi .testi-desc i, .testimonials .testi .testi-desc ul li {
+    font-size: 14px;}
+    .testimonials .testi .testi-desc .verify{    transform: scale(0.8) translate(2px, -2px);}
+    footer{padding: 5px 0 0}
+    footer h3 { font-size: 12px; margin: 15px 0 5px }
+    footer ul li {
+    padding: 2px 0 2px 9px;}
+    footer ul li::before {
+    top: 5px;}
+    footer .social-icons.padd-btd{padding: 0px 0 10px}
+    footer .brdr-top .subcribe h4, footer .brdr-top .social-icons h4{font-size: 16px}
+    footer .brdr-top .social-icons i{    font-size: 16px;
+    width: 37px;height: 37px;        }
+    footer .brdr-top .subcribe input {
+    margin-top: 10px;}
+    footer .brdr-top .subcribe input {
+    padding: 10px 30px;
+    font-size: 11px;
+    max-width: 320px;
+}
+    footer .brdr-top .subcribe i {
+    top: 47px;
+    left: 25px;
+    transform: scale(0.8);}
+    footer .brdr-top .subcribe button {
+    padding: 5px 23px;
+    font-size: 12px;
+    left: 241px}
+    .footer-bottom { padding: 5px 0}
+    .footer-bottom h4{    font-size: 14px;}
+    .footer-bottom p{    font-size: 11px;}
+    footer .padd-btd > img{padding-top: 20px}
+    footer .brdr-top {
+    padding: 10px 0px 0px 0;
+    border: none}
+    footer .listpge{display: none !important}
+    .maincta h3 strong {
+    font-size: 20px;}
+    .maincta h3 {
+    font-size: 16px;}
+    .maincta p {
+    font-size: 12px;}
+    .maincta .callsdivs {
+    font-size: 13px;
+    padding: 10px 0}
+    .maincta .callsdivs .iconphone {
+    transform: scale(0.6) translateX(5px);}
+    .maincta .btn-radius-top a{    padding: 4px 7px;
+    font-size: 10px;}
+    .what-offer ul li div{      padding: 7px 16px 0;
+        min-height: 116px; position: relative;}                
+    .what-offer ul li div h3 {
+    font-size: 16px;}
+    .what-offer ul li div p {
+    font-size: 13px;}
+    .what-offer ul li div a{font-size: 13px; margin: 10px 0 ; position: absolute; bottom: 10px; left: 0; right: 0; margin: auto;    color: #ea333f; font-weight: 600}
+    .what-offer h3 {
+    font-size: 22px;
+    margin: 10px 0 5px;}
+    .what-offer p {
+    font-size: 14px;}
+    .what-offer > div > ul{margin: 0}
+    /* .bannermm a.logobtnsstart,  .bannermm .leftcont-ban a,  .mainhome .bannermm.webbanner .leftcont-ban a, .mainhome .bannermm.animbanner .leftcont-ban a{    } */
+    .leftcont-ban a{    font-size: 13px;height: auto !important;    padding: 6px 10px; width: auto !important; background: #fff; color: #242424; display: inline-block; font-weight: 600 }
+    .leftcont-ban a i.btnarow{display: none !important}
+    .mainhome .bannermm .leftcont-ban a:hover, .mainhome .bannermm.animbanner .leftcont-ban a:hover, .mainhome .bannermm.webbanner .leftcont-ban a:hover {    width: auto; color: #242424}
+    .portfolio-mmbx .leftcont-ban a{width: 128px; height: 27px;    font-size: 12px; }
+    .leftcont-ban a{     padding: 5px 12px;}
+    .portfolio-mmbx .leftcont-ban a:hover { width: 180px; }
+    .det-packages .sechead h3 {
+    font-size: 20px;}
+    .bannermm a.logobtnsstart:hover {
+    width: 268px;}
+    .inner-pg .bannermm .leftcont-ban h1 {
+    font-size: 18px;}
+    body.inner-pg .bannermm .leftcont-ban p {
+    font-size: 14px;
+    padding: 5px 0}
+    .enterprices-bundles .totalpackagespricess{margin: 0; padding: 0}
+    .enterprices-bundles .sechead{margin: 0}
+    .enterprices-bundles h3:before{display: none}
+    .portfoliomaindivs .tabschildrens{margin-top: 0}
+
+    .det-packages .boxpackages .packheads h3 {    font-size: 18px;
+    margin: 0px 0 2px;}
+    .det-packages .boxpackages .packheads p {
+    font-size: 11px;
+    min-height: auto;}
+    .boxpackages .packdetails .packtitles .fleft h3 { font-size: 24px; }
+    .packdetails .packtitles .fright h4 {font-size: 12px; margin: -2px 0 0; line-height: 12px}
+    .packdetails .packtitles .fright h4 b:before {    top: 11px; left: -3px; }
+    .packdetails .listpacks {     padding: 10px 0; }
+    .packdetails .listpacks li {
+    font-size: 11px;
+    padding: 5px 16px;}
+    .packdetails .listpacks li:before {
+    font-size: 11px;
+    top: 8px}
+    .packdetails .botarea-pack {     padding: 5px 0 0;}
+    .packdetails .botarea-pack a.btn-orders {
+    padding: 3px 7px;
+    font-size: 11px;}
+    .packdetails .botarea-pack .liovechats-bx a span:before { font-size: 13px;    right: -15px; }
+    .boxpackages .packdetails .listpacks h3{font-size: 14px; margin: 10px 0 5px}
+    .packdetails .botarea-pack .liovechats-bx a h5 { font-size: 12px; }
+    .packdetails .listpacks{    height: 200px;}
+    .det-packages .boxpackages:hover {
+    transform: scale(1.05);}
+    .mCSB_outside + .mCSB_scrollTools {
+    right: -16px;}
+    .logo img {
+    width: 262px;
+    margin-left: 30px;}
+    header .logo {
+        padding-top: 22px;
+    }
+    a.toggle-menu:before {     font-size: 25px; left: 26px; }
+    .cbp-spmenu h3 {
+    color: #fff;
+    font-size: 1.4em;
+    padding: 14px;}                                
+    .cbp-spmenu-vertical a{     font-size: 14px;
+    padding: 12px 10px; }
+    .dropdown .lstnavig .liststylss > li > a {
+    padding: 5px 0 5px 25px;    font-size: 11px;}
+    .dropdown .lstnavig .liststylss > li > a:after {     top: 0px;
+    font-size: 10px;}
+    .what-offer ul li div h3 br{display: none}
+    .portfolio-mmbx .box-ports {margin: 0 auto 40px;}
+    .bannermm .container{ margin-left: 0px}   
+    .maincta .callsdivs { text-align: center }
+    .howworks-mm .designbrief h3{    font-size: 17px;}
+    .howworks-mm .designbrief p { font-size: 13px;}    
+    .howworks-mm .designbrief .processicons {    transform: scale(0.7) !important;}
+    .howworks-mm .designbrief{    margin: -28px 0 0 0;}
+    .howworks-mm .designbrief h3{margin-top: -17px;}
+    .brdcrme li {    padding: 6px 12px;}
+    .brdcrme li+li:before {    top: 5px;}
+    .what-offer ul li div{padding: 7px 10px 0; min-height: 190px;}
+    .leftcont-ban a { margin: 5px 0 0px; }
+    .incred-expe .content-incred h3{     font-size: 24px !important;}
+    .inner-pg .bannermm .leftcont-ban, .inner-pages .bannermm .leftcont-ban{    margin-top: 20px;}
+    .types-box h5 { padding: 10px 0 5px; font-size: 16px; }
+    .animation-service .srvc-box {     max-width: 345px;     margin: 0 auto 10px;}
+    .pricerange-main .pricingbox .iconsbx { transform: scale(0.6); }
+    .pricerange-main .pricingbox li h3{    margin-top: -13px;    margin-bottom: 8px;line-height: normal}
+    .pricerange-main .pricingbox li a{    margin-top: -18px;}
+    .mainvideo-dur{padding: 0 10px}
+    .pricerange-main .video-duration h6 { font-size: 16px;}
+    input[type=range] { max-width: 300px;}    
+    .slider{    height: 18px;}
+    .slider::-webkit-slider-thumb{height: 18px; border-width: 2px}
+    .animation-pricing{    margin-top: 8px;padding: 5px 0;}
+    .animation-pricing h6{    font-size: 14px;    margin: 0px 0 5px;}
+    .animation-pricing h5 { font-size: 18px;}    
+    .pricerange-main .video-qty { padding: 4px 0px}
+    .pricerange-main .video-qty h6, .pricerange-main .video-qty label { margin-bottom: 12px;     font-size: 16px;}
+    .pricerange-main .video-qty #videoqty { margin: 0 5px 0 0; padding: 0px 5px; }
+    .mainpriceng-count .leftcont-ban a { margin-top: 15px; }
+    .video-development .vd-devp-fr h2 { font-size: 20px;}
+    .video-development { padding: 10px 0; }
+    .video-development .vd-devp-fr p { font-size: 13px; }
+    .testimonials, .incred-expe { padding: 10px 0 10px; }
+    .branding-portfolio > div > div.row{margin: 0}
+    .branding-portfolio{    padding: 10px 0; text-align: center }
+    .branding-portfolio .nopadd-l{     padding-left: 15px; }
+    .c-tabs .col-md-3 h3 { font-size: 20px; margin: 5px 0 0}
+    .c-tabs .col-md-3 p { font-size: 14px; margin: 5px 0; }
+    .c-tabs .tabs-list { margin: 10px 0; display: flex; flex-wrap: wrap; text-align: center}
+    .c-tabs .tabs-list li a { font-size: 14px; padding: 6px 10px;border-radius: 8px }
+    .c-tabs .tabs-list li a:before{display: none}
+    .c-tabs .tabs-list li{width: 33.3333%;padding: 3px 4px; text-align: center; margin: 0 auto}
+    .c-tabs .tabs-list li:nth-child(1) a{border: 1px solid #111111}
+    .c-tabs .tabs-list li:nth-child(2) a{border: 1px solid #904d83}
+    .c-tabs .tabs-list li:nth-child(3) a{border: 1px solid #68797a}
+    .c-tabs .tabs-list li:nth-child(4) a{border: 1px solid #452b78}
+    .c-tabs .tabs-list li.active:nth-child(1) a{background:#111111}
+    .c-tabs .tabs-list li.active:nth-child(2) a{background:#904d83}
+    .c-tabs .tabs-list li.active:nth-child(3) a{background:#68797a}
+    .c-tabs .tabs-list li.active:nth-child(4) a{background:#452b78}
+    .branding-portfolio .c-tabs .tab-content.active{    margin-left: 0;}
+    .incred-expe .padtop150 { padding-top: 0px; }
+    body.inner-pages .bannermm .leftcont-ban h1{     margin-top: 0;}
+    .about-phylosophy-bg .phylosophy-box:after{display: none}
+    .gettouchfaqs h3 { font-size: 22px; text-align: center }
+    .gettouchfaqs{padding: 10px 0;}
+    .gettouchfaqs .packagesbxs .toptabs1{text-align: center}
+    .gettouchfaqs .packagesbxs .toptabs1 a {     padding: 5px 15px; font-size: 13px; margin-bottom: 7px }
+    .gettouchfaqs .packagesbxs{ padding: 10px 0 }
+    .accordion-faq a.accord-tab { padding: 10px 10px; font-size: 12px;}
+    .accordion-faq > li:after { font-size: 18px; }
+    .sitemap-main .termcndtn br{ display: none }
+    .sitemap-main .termcndtn p strong{ margin-top: 5px }
+    .ulsme-ctct ul li+li::before { font-size: 10px }
+    body.sitemap-main .sec-pad.termcndtn.sp-section .row{padding: 0 10px; height: 555px; }
+    .sitemap-main .col-sm-5ths{ width: 33.3333%; padding-left: 5px;padding-right: 5px; }
+    .sitemap-main .sp-section h3 { font-size: 16px; margin: 10px 0 5px }
+    .sitemap-main .termcndtn ul li { font-size: 14px;     padding: 3px 5px 3px 14px;}
+    .sitemap-main .termcndtn ul li:before { top: 6px;}
+    body.sitemap-main .termcndtn{ padding: 10px 0 }
+    .contact-form-main .red-bg{ padding: 6px 10px }
+    .contact-form-main .red-bg h3{     font-size: 20px;    margin: 0px 0 8px;}
+    .contact-form-main .red-bg h4 {font-size: 16px}
+    .contact-form-main .red-bg p { margin: 0px auto 6px; font-size: 14px;     max-width: 210px;}
+    .contact-form-main .red-bg .social-icons > div { margin: 5px 0}
+    .contact-main{ margin: 0 0 20px }
+    .contact .sechead { margin-bottom: 0px; }
+    .custom-popup h3 {
+        font-size: 22px;
+    }
+    .custom-popup p {
+        font-size: 17px;
+    }
+    .custom-popup a.closed::before{     padding: 0 6px;
+        top: -41px;
+        right: 0;
+        font-size: 17px;
+    }
+    .custom-popup > div {
+        padding: 51px 20px 20px;
+    }
+    .incred-expe .content-incred p { font-size: 14px; }
+}
+@media (max-width: 599px) {.what-offer ul li div{padding: 7px 10px 0; min-height: 170px;}}
+@media (max-width: 480px) {
+    .sitemap-main.stp .termcndtn ul li:before{     top: 6px;}
+    .homeport-mm .leftcont-ban { max-width: initial; }
+    .video-development .vd-devp-fr h2 { font-size: 18px; }
+    .incred-expe .content-incred p { font-size: 13px; }
+    .about-phylosophy-bg .phylosophy-box i{transform: scale(0.8); margin: -28px auto;}
+    .web-design .slick-dotted.slick-slider{     margin-bottom: 40px;}
+    .bannermm .leftcont-ban h1, .bannermm .leftcont-ban h1 span{font-size: 16px}
+    .leftcont-ban{     max-width: 225px; }   
+    .custom-popup h3 { font-size: 20px; }
+    .custom-popup p { font-size: 16px; }
+    .fixedform-1 .input-btn > input { padding: 6px 0; font-size: 14px;}
+    .fixedform-1 .input-btn { width: 80%;}    
+    .fixedform-1 form{     margin: 10px 0;}
+    .fixedform-1 .mm-field textarea{     padding-left: 14px;}
+    .testimonials .testi .testi-desc i, .testimonials .testi .testi-desc ul li { font-size: 11px; }
+    .logopackages-p .det-packages .tabscontent .col-md-4:nth-child(n+4) .boxpackages, .det-packages .boxpackages{ max-width: 90% }
+    .enterprices-bundles .totalpackagespricess{     text-align: center;    }
+    .enterprices-bundles .totalpackagespricess .btn-orders-bundles{float: none;}
+    .bannermm { min-height: 215px; }
+    .portfolio-mmbx.edit-1 .slick-dots { bottom: -2px }
+    body.mainhome .bannermm .leftcont-ban h1 {     margin: 65px 0 0;    text-shadow: 1px 1px 1px #000;}
+    body.inner-pg .bannermm .leftcont-ban h1 {     margin: 65px 0 0;  max-width: 100%; font-size: 16px }
+    .bannermm .leftcont-ban h1, .bannermm .leftcont-ban h1 span{    font-size: 16px; }
+    .bannermm .leftcont-ban h1 strong{  font-size: 18px; margin: 2px 0  }
+    .charAnimation .bannermm h1 strong{ font-size: 18px !important; }
+    body.mainhome .bannermm .leftcont-ban p { font-size: 12px; max-width: 255px; margin: 5px 0;    text-shadow: 1px 1px 1px #000;}
+    body.inner-pg .bannermm .leftcont-ban p { font-size: 14px; max-width: 100%; margin: 5px 0}
+    .leftcont-ban a { margin: 5px 0 45px; text-shadow: none; }
+    .bannermm a.logobtnsstart, .mainhome .bannermm .leftcont-ban a, .mainhome .bannermm.animbanner .leftcont-ban a, .mainhome .bannermm.webbanner .leftcont-ban a{background: #fff; color: #242424; width: auto; height: auto; padding: 4px 10px; font-size: 10px; font-weight: 600;     display: inline-block;}
+    .mainhome .bannermm .leftcont-ban a:hover, .mainhome .bannermm.animbanner .leftcont-ban a:hover, .mainhome .bannermm.webbanner .leftcont-ban a:hover{ width: auto;}
+    /* .leftcont-ban{ margin-left: -10px } */
+    .leftcont-ban a i.btnarow{display: none}
+    .logo img {
+    width: 170px;
+    margin: none;}
+    a.toggle-menu:before {
+    font-size: 22px; top: 5px}
+    .incred-expe .content-incred h3 { font-size: 18px !important;margin-bottom: 5px; }
+    .mainhome .incred-expe .content-incred h3 { font-size: 22px !important;margin-bottom: 10px; }
+    .incred-expe .content-incred .fnt-18 {
+    margin-bottom: 10px;
+    font-size: 15px;}
+    p {
+    font-size: 13px;line-height: normal;
+    margin-bottom: 5px;}
+    .what-offer h3 {
+    font-size: 18px;
+    margin: 15px 0 3px;}
+    .what-offer p {    font-size: 13px;
+        padding: 2px 0 5px;}
+    .what-offer ul li div {
+    padding: 9px 8px 0;
+    min-height: 150px;
+    margin: 0 auto;}
+    .maincta h3 { font-size: 16px; }
+    .maincta h3 strong { font-size: 18px; }
+    .maincta p {
+    font-size: 13px;}
+    .maincta .btn-radius-top a {
+        padding: 4px 10px;
+    font-size: 11px;}
+    .maincta .callsdivs {
+        font-size: 12px;
+        padding: 15px 0 10px;
+    }
+    .maincta .callsdivs .iconphone { transform: scale(0.6) translateX(4px);}
+    .sitemap-main .termcndtn p strong, .sechead h3, .sechead h3 { font-size: 20px; margin: 5px 0;}
+    .sitemap-main ul{ margin: 5px 0 }
+    .sechead p {
+    font-size: 12px;}
+    .toptabs1 li{    margin: 2px 2px;
+        width: 45%;
+    }
+    .toptabs1 {
+        margin: 10px 0 0;
+    }
+    /* .leftcont-ban {
+        max-width: inherit;
+    } */
+    .toptabs1 li span, .toptabs1 li a {
+    padding: 2px 8px;
+    font-size: 10px;}                  
+    .hovereffects-det h3 {
+    font-size: 18px; margin: 5px 0 10px}
+    .btnstyles-nn a {
+        padding: 3px 14px;
+    font-size: 14px;
+    margin: 0px 0;
+    border-width: 1px}
+    .btnstyles-nn a i{display: none}
+    .portfoliomaindivs .tabschildrens ul li {
+    padding: 2px 8px;}
+    .det-packages .portfoliomaindivs .tabschildrens {
+        background: #fff;
+        border-top: 1px solid #d1d7e3;}
+    .portfoliomaindivs .tabschildrens ul li span {
+    font-size: 11px;}                    
+    .portfolio-mmbx .box-ports {
+    max-width: 100%;
+    margin: 10px auto 40px;}
+    .portfolio-mmbx .slick-dotted.slick-slider{margin-bottom: 10px;}
+    .testimonials .packagesall .portfolio-mmbx .leftcont-ban a, .packagesall .portfolio-mmbx .leftcont-ban a , .portfolio-mmbx .leftcont-ban a, .portfolio-mmbx .leftcont-ban a {width: auto;height: auto;font-size: 14px;padding: 5px 17px;display: inline-block;}
+    .testimonials .packagesall .portfolio-mmbx .leftcont-ban a:hover, .packagesall .portfolio-mmbx .leftcont-ban a:hover , .portfolio-mmbx .leftcont-ban a:hover, .portfolio-mmbx .leftcont-ban a:hover{width: auto; background: none; color: #ff0042}                    
+    .det-packages .sechead h3 {
+    font-size: 18px; margin: 5px 0}
+    .sechead p {
+        font-size: 13px;
+    padding: 2px 0 5px;}
+    .toptabs1 li span, .toptabs1 li a {
+        padding: 3px 0;
+    font-size: 13px;border-radius: 0}
+    .portfolio-mmbx{margin-top: 5px}
+    .mainhome .incred-expe .slick-dots, .testimonials .slick-dots, .incred-expe .slick-dots, .det-packages .slick-dots {
+    bottom: -10px;}
+    .inner-pg .incred-expe .slick-dots, .testimonials .slick-dots, .incred-expe .slick-dots, .det-packages .slick-dots {
+    bottom: -10px;}
+    .portfolio-mmbx{margin: 0}
+    .det-packages {
+    padding: 0;}
+    .enterprices-bundles .totalpackagespricess h4 { font-size: 14px;}
+    .enterprices-bundles .totalpackagespricess .yellcol {
+    font-size: 16px;}
+    .enterprices-bundles .totalpackagespricess .btn-orders-bundles a {
+        padding: 4px 18px;
+        font-size: 13px;}
+    .enterprices-bundles .totalpackagespricess .btn-orders-bundles p {
+        padding: 4px 18px;
+    font-size: 14px;}
+    .testimonials h3 {
+    font-size: 20px;
+    margin: 3px;}
+    .testimonials, .incred-expe {
+    padding: 10px 0 0px;}
+    .testimonials .testi .testi-img p {
+    font-size: 12px;}
+    .testimonials .testi .testi-img h4 {
+    font-size: 14px;
+    margin-bottom: 4px;}
+    .testimonials .testi .testi-img img{    max-width: 36%;}
+    .testimonials .testi .testi-img {
+    min-height: 123px;}
+    footer .brdr-top .subcribe h4, footer .brdr-top .social-icons h4 {
+    font-size: 14px;}
+    footer .brdr-top .social-icons i {
+    font-size: 10px;
+    width: 23px;
+    height: 23px;
+    padding: 5px 0;
+    margin: 1px 0;
+    border-width: 1px;}
+    footer .brdr-top .subcribe input {
+    padding: 8px 26px;
+    font-size: 10px;}                                
+    footer .brdr-top .subcribe i {
+    top: 42px;
+    left: 22px;
+    transform: scale(0.7);}           
+    footer .brdr-top .subcribe button {
+    padding: 4px 23px;
+    font-size: 11px;
+    right: 18px; max-width: 220px}       
+    .footer-bottom h4 {
+    font-size: 13px;
+    margin: 5px 0;}                  
+    .pacbundles-det .headbx-bundle .fleft h4 {
+    font-size: 17px;
+    padding-top: 6px}
+    .pacbundles-det .headbx-bundle .packbundleprice {    margin-top: 0;
+    padding: 0 0 0 8px;}
+    .pacbundles-det .headbx-bundle .packbundleprice:before{display: none}
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx > li {
+    padding: 4px 14px;
+    font-size: 13px;}
+    .pacbundles-det .headbx-bundle ul.listbundles-packbx > li:before {
+    font-size: 10px;}
+    .slick-dots li.slick-active button {     width: 16px;
+    height: 12px;}
+    .slick-dots li button{    width: 12px;
+    height: 12px;}
+    .what-offer ul li {
+    padding: 0 3px;}
+    .portfolio-mmbx .box-ports img{    width: 100%;}
+    header .logo {padding-top: 21px;}
+    .portfoliomaindivs .topbartabs {padding: 0 10px;}
+    .bannermm .container{ margin-left: 0}   
+    .inner-pg .bannermm .leftcont-ban, .inner-pages .bannermm .leftcont-ban{    margin-top: 0px;    text-shadow: 1px 1px 1px #000; }
+    .howworks-mm .designbrief .processicons {transform: scale(0.5) translateX(-5px) !important;}
+    .howworks-mm .designbrief {margin: -47px 0 0 0;}
+    .howworks-mm .designbrief h3 {margin: -41px 0 5px;font-size: 14px;}
+    .howworks-mm{margin: 0}
+    .incred-expe .content-incred h5 {
+        font-size: 16px;
+        margin: 0 0 9px;
+    }
+    .brdcrme li {
+        padding: 3px 12px;
+        font-size: 13px;
+    }
+    .brdcrme li+li:before {
+        top: 4px;
+    }
+    .footer-bottom {
+        padding: 2px 0;
+        text-align: center;
+    }
+    footer .brdr-top {
+        padding: 5px 0px 0px 0;}
+        .testimonials .testi .testi-img::before{display: none}   
+        .pricerange-main .pricingbox li{ width: 50% }
+        .pricerange-main .pricingbox li h3 { margin-top: -15px;    font-size: 12px;}        
+        .pricerange-main .pricingbox{margin: 0}
+        .pricerange-main .video-duration h6 { font-size: 14px; margin: 5px 0 }
+        .animation-pricing h6 {font-size: 12px;    margin: 0px 0 0px; }        
+        .animation-pricing h5 { font-size: 14px; }
+        .animation-pricing { margin-top: 2px;}        
+        .pricerange-main .video-duration span {    font-size: 13px;}
+        input[type=range]{    margin: 0 auto 2px;    max-width: 230px;}
+        .pricerange-main .video-qty h6, .pricerange-main .video-qty label {margin: 4px 0 8px; font-size: 13px; }
+        .pricerange-main .video-qty #videoqty{    font-size: 12px;}
+        .slider { height: 15px; }
+        .slider::-webkit-slider-thumb{height: 15px; border-width: 1px}
+        .animation-service .srvc-box .srvc-lft img, .animation-service .srvc-box .srvc-lft video { width: 50px;}        
+        .animation-service .srvc-box .srvc-rht h4 { font-size: 14px;}        
+        .animation-service .srvc-box .srvc-rht p{font-size: 12px; line-height: normal}
+        .animation .animation-service{ margin-top: 10px }
+        body.inner-pg.animation.logopackages-p .bannermm .leftcont-ban h1 { margin: 45px 0 0; }
+        .branding-portfolio .nopadd-l{margin-left: 0}
+        .c-tabs .tabs-list li a { font-size: 11px; padding: 4px 8px;}
+        .branding-portfolio .c-tabs .tab-content {margin-left: 0}
+        .branding-portfolio .c-tabs-description h3 { font-size: 18px; margin: 2px 0 5px; }
+        .branding .branding-portfolio .c-tabs-description p { font-size: 13px; line-height: 20px;}
+        .branding .branding-portfolio .c-tabs-description a { padding: 3px 22px; font-size: 14px; }
+        .branding .branding-portfolio .bg1-description img { margin: -15px auto 0; }
+        .branding-portfolio .nopadd-l{padding: 0}
+        body .bannermm .leftcont-ban p{ font-size: 12px;  margin: 5px 0; }
+        .gettouchfaqs h3{ font-size: 18px; margin: 0 0 }
+        .gettouchfaqs .packagesbxs{padding: 10px}
+        .gettouchfaqs .packagesbxs .toptabs1{margin-bottom: 0}
+        .gettouchfaqs .packagesbxs .toptabs1 a {     padding: 3px 9px; font-size: 12px;  margin-bottom: 4px; }
+        .accordion-faq a.accord-tab { padding: 7px 4px; font-size: 11px; }
+        .accordion-faq > li:after { font-size: 15px; }
+    .sitemap-main .col-sm-5ths{ width: 50%; padding-left: 5px;padding-right: 5px; }
+    .sitemap-main .sp-section h3 { font-size: 16px; margin: 10px 0 2px }
+    .sitemap-main .termcndtn ul li { font-size: 13px;     padding: 3px 5px 3px 14px;}
+    .sitemap-main .termcndtn ul li:before { top: 5px;}
+    body.sitemap-main .termcndtn{ padding: 5px 0  10px}
+    body.sitemap-main .sec-pad.termcndtn.sp-section .row{     height: 676px;}
+    .col-480-100{width: 100% !important}
+    .contact-form-main .red-bg h3 { font-size: 20px; margin: 0px 0 5px; }
+    .contact-form-main .red-bg h4 { font-size: 14px; margin: 5px 0 4px ; line-height: normal }
+    .contact-form-main .red-bg p { margin: 0px auto 5px}
+    .contact-main {margin: 0 0 10px; }
+    .contact-form-main .gray-bg {padding: 10px;}
+    .contact-form-main .gray-bg h4 { font-size: 14px;    margin: 0px 0 10px 0; text-align: center; display: block}
+    .contact-form-main .gray-bg .field input[type="text"], .contact-form-main .gray-bg .field textarea, .contact-form-main .gray-bg .field select{    padding: 7px 10px 7px 27px; font-size: 12px; }
+    .contact-form-main .gray-bg .field i.user{    top: 6px; left: 5px;    transform: scale(0.8);}
+    .contact-form-main .gray-bg .field i.email{    top: 9px; left: 6px;    transform: scale(0.9); }
+    .contact-form-main .gray-bg .field i.select{     top: 8px; left: 5px;     transform: scale(0.9); }
+    .mm-field.email fieldset, .mm-field.name fieldset { top: 6px; left: 27px; font-size: 12px; }
+    .intl-tel-input .selected-flag .iti-flag{     transform: scale(0.8) translateX(-6px); }
+    .intl-tel-input.separate-dial-code .selected-dial-code{       font-size: 12px;}
+    .contact-form-main .mm-field.phone fieldset{         top: 6px !important;     left: 90px; font-size: 11px; }
+    .contact-form-main{ margin: 0 }
+    .contact-form-main .mm-field.textarea textarea{ padding: 12px 10px;    height: 130px;}
+    .contact-form-main .mm-field.textarea fieldset { font-size: 11px }
+    .contact-form-main .mm-field fieldset.active{ font-size: 7px !important;top: 0 !important }
+    .mm-field.textarea fieldset { left: 10px; top: 6px; }
+    .contact-form-main .gray-bg .field { margin: 0 0 10px 0;}    
+    .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input, .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=text], .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=tel]{ font-size: 11px }
+    .contact-form-main .gray-bg .submit{     margin: 10px auto 0;    max-width: 150px;}
+    .contact-form-main .gray-bg .submit:before{    left: 18px; top: 8px;transform: scale(0.7) translate(0 ,-7px) }
+    .contact-form-main .gray-bg .submit input[type="submit"]{ height: auto;padding: 5px 10px 5px 45px; font-size: 13px}
+    .det-packages .toptabs1 li a{     border-radius: 0;
+    }
+}
+
+@media (max-width: 360px) {
+    footer .brdr-top .subcribe button{ left: auto;    right: 21px;    padding: 4px 16px;}
+    .howworks-mm .designbrief .processicons{    transform: scale(0.5) translateX(0px) !important;}
+    .what-offer ul li div{ padding: 9px 5px 0; min-height: 125px; }
+    body.sitemap-main .sec-pad.termcndtn.sp-section .row{     height: auto;}
+    .sitemap-main .col-sm-5ths{ width: 100%; }
+}
+
+@media (max-width: 320px) {
+    .contact-form-main .mm-field.phone fieldset {left: 85px;top: 0;font-size: 11px;}
+}
+
+
+@media (max-width: 824px){
+    .logo{text-align: center;}
+    .logo img{width: 120px; margin: 0;}
+    header .logo{padding: 8px 0;}
+    .mainhome .bannermm{height: 480px;}
+    body.mainhome .bannermm .leftcont-ban h1 br{display: none;}
+    .leftcont-ban{max-width: none; text-align: center;}
+    .bannermm .leftcont-ban h1, .bannermm .leftcont-ban h1 span{font-size: 24px; line-height: 28px;}
+    .bannermm .leftcont-ban h1 strong{font-size: 26px;}
+    body.mainhome .bannermm .leftcont-ban p{font-size: 17px; max-width: none; padding: 17px 0px 8px;}
+    .bannermm a.logobtnsstart, .mainhome .bannermm .leftcont-ban a, .mainhome .bannermm.animbanner .leftcont-ban a, .mainhome .bannermm.webbanner .leftcont-ban a{font-size: 14px; padding: 6px 10px; }
+    .mobile-nav-btn{position: absolute; top: 30px;}
+    body.mainhome .bannermm .leftcont-ban h1{margin: 135px 0 0;}
+    .det-packages .boxpackages{height: auto;}
+    footer .padd-btd > img{max-width: 120px; padding-top: 5px; margin: auto;}
+    .bannermm{min-height: 335px;}
+    body.inner-pg .bannermm .leftcont-ban h1{margin: 100px 0 0;}
+    .inner-pg .bannermm .leftcont-ban, .inner-pages .bannermm .leftcont-ban{margin-top: 40px;}
+    .logo img{width: 210px; }
+    .mobile-nav-btn{top: 11px;}
+    footer .brdr-top{display: block;}
+}
+
+
+
+
+
+

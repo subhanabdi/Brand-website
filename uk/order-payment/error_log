@@ -1,0 +1,55 @@
+[06-Jan-2022 14:17:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/barkteams/public_html/authorize2/index.php on line 164
+[06-Jan-2022 14:17:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/barkteams/public_html/authorize2/index.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/barkteams/public_html/authorize2/index.php on line 164
+[11-Jan-2022 14:11:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/metadesignmaster/public_html/order-payment/index.php on line 140
+[11-Jan-2022 14:11:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/metadesignmaster/public_html/order-payment/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 140
+[11-Jan-2022 14:19:51 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/metadesignmaster/public_html/order-payment/index.php on line 140
+[11-Jan-2022 14:19:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/metadesignmaster/public_html/order-payment/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 140
+[11-Jan-2022 14:21:48 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home2/metadesignmaster/public_html/order-payment/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 13
+[11-Jan-2022 14:22:38 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home2/metadesignmaster/public_html/order-payment/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 13
+[11-Jan-2022 14:23:22 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home2/metadesignmaster/public_html/order-payment/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 13
+[11-Jan-2022 14:24:26 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home2/metadesignmaster/public_html/order-payment/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 13
+[11-Jan-2022 14:24:27 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home2/metadesignmaster/public_html/order-payment/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 13
+[11-Jan-2022 14:27:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/metadesignmaster/public_html/order-payment/index.php:172
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 172
+[11-Jan-2022 14:40:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/metadesignmaster/public_html/order-payment/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 173
+[11-Jan-2022 14:42:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/metadesignmaster/public_html/order-payment/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 173
+[11-Jan-2022 14:43:16 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home2/metadesignmaster/public_html/order-payment/index.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 169
+[11-Jan-2022 14:44:34 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home2/metadesignmaster/public_html/order-payment/index.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/metadesignmaster/public_html/order-payment/index.php on line 169

@@ -1,0 +1,18 @@
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: ip in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 8
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined index: Name in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 19
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined index: em in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 21
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined index: pn in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 22
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined index: pack in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 23
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined index: packnm in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 24
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined index: web_page in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 25
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: phonenumber in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 41
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: phonenumber in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 41
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: fullpageurl in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 120
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: pageurl in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 121
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: query in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 123
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: query in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 124
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: query in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 125
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: query in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 126
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: query in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 127
+[18-Jun-2021 13:10:12 UTC] PHP Notice:  Undefined variable: query in /home/o1oiw2d0a8z4/public_html/logo-order/order-step-2.php on line 128
+[18-Jun-2021 17:18:36 UTC] PHP Warning:  Use of undefined constant HAssan - assumed 'HAssan' (this will throw an Error in a future version of PHP) in /home/o1oiw2d0a8z4/public_html/logo-order/connectiondb.php on line 13

@@ -1,0 +1,6 @@
+[22-Apr-2022 15:23:37 America/Chicago] PHP Warning:  include(includes/compatibility.php): failed to open stream: No such file or directory in /home2/metadesignmaster/public_html/sitemap/index.php on line 4
+[22-Apr-2022 15:23:37 America/Chicago] PHP Warning:  include(includes/compatibility.php): failed to open stream: No such file or directory in /home2/metadesignmaster/public_html/sitemap/index.php on line 4
+[22-Apr-2022 15:23:37 America/Chicago] PHP Warning:  include(): Failed opening 'includes/compatibility.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/metadesignmaster/public_html/sitemap/index.php on line 4
+[22-Apr-2022 15:23:37 America/Chicago] PHP Warning:  include(includes/style.php): failed to open stream: No such file or directory in /home2/metadesignmaster/public_html/sitemap/index.php on line 6
+[22-Apr-2022 15:23:37 America/Chicago] PHP Warning:  include(includes/style.php): failed to open stream: No such file or directory in /home2/metadesignmaster/public_html/sitemap/index.php on line 6
+[22-Apr-2022 15:23:37 America/Chicago] PHP Warning:  include(): Failed opening 'includes/style.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/metadesignmaster/public_html/sitemap/index.php on line 6
